@@ -1,0 +1,7 @@
+.slidebg {
+  background-image: url('./sideSlide.png');
+  width: 72px;
+  height: 440px;
+  background-position: center;
+  background-repeat: no-repeat;
+}

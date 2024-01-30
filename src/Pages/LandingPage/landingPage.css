@@ -1,7 +1,7 @@
 .carBg {
-  background-image: url("./carbg.png");
+  background-image: url('./carbg.png');
   width: 100%;
-  height: auto;
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
 }
